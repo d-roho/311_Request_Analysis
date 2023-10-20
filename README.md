@@ -1,5 +1,5 @@
  # **<u>TEAM B01 - Boston 311 Service Request and Resolution Analysis</u>**
-### **<u>*Team Members*</u>:** Rohit Devanaboina (Team Lead), Yifan (Eva) Fan, Riris Grace, Jiayi Huang, Shailoz Kumar Singh
+### **<u>*Team Members*</u>:** Rohit Devanaboina (Project Manager), Yifan (Eva) Fan, Riris Grace, Jiayi Huang, Shailoz Kumar Singh
 ![picture](https://www.thedataschool.com.au/wp-content/uploads/2022/01/Featured-picture-1080x265.png)
 
 ---
